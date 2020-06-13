@@ -1,0 +1,46 @@
+.totalCard {
+  width: 100%;
+  text-align: center;
+  background-color: hsl(228, 28%, 20%);
+  padding: 2rem;
+  border-top: 3px solid;
+  border-radius: 0.4rem;
+}
+
+.platformInfo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+
+.user,
+.change {
+  font-weight: 700;
+}
+
+.socialIcon,
+.arrow {
+  margin-right: 0.5rem;
+}
+
+.total,
+.change {
+  color: #fff;
+}
+
+.total {
+  font-size: 3.5rem;
+}
+
+.followers {
+  text-transform: uppercase;
+  letter-spacing: 0.4rem;
+  margin-bottom: 0.7rem;
+}
+
+.change {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
